@@ -1,4 +1,8 @@
 # patrones-desarrollo
+
+Juan  manuel Riola-2220231095
+Juan Diego Pinzon-220231109
+
 ¿QUE SON?
 
 Los patrones de desarrollo, también conocidos como patrones de diseño, son soluciones probadas y comprobadas para problemas comunes en el desarrollo de software. Los patrones de desarrollo proporcionan un enfoque estructurado y reutilizable para diseñar y construir aplicaciones.
